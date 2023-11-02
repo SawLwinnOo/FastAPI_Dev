@@ -1,2 +1,3 @@
 # FastAPI_Dev
-fFastAPI
+
+- [weather API](/home/slo/FastAPI_Dev/weather_API)
